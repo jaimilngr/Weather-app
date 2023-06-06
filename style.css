@@ -65,7 +65,7 @@ h1:hover{
     font-size: 23px;
     font-weight: 500;
     padding-left: 32px;
-
+    font-family: 'Lobster', cursive;
 }
 
 .search input::placeholder{
